@@ -83,7 +83,7 @@ Exemplo de corpo da requisição (JSON):
 
 A permissão define o tipo de acesso do usuário, podendo ser `cliente` ou `recepção`.
 
-## ## Testes
+## Testes
 
 A API foi testada utilizando o Insomnia, realizando requisições HTTP para verificar o funcionamento das rotas de login e cadastro de usuários.
 
